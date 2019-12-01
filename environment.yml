@@ -2,7 +2,7 @@ channels:
 - conda-forge
 dependencies:
 # Jupyter
-- jupyterlab=1.0
+- jupyterlab=1.1.4
 - nodejs=11
 - nbconvert=5.5
 - widgetsnbextension=3.5
