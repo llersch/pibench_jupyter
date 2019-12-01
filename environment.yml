@@ -6,6 +6,7 @@ dependencies:
 - nodejs=11
 - nbconvert=5.5
 - widgetsnbextension=3.5
+- jupyter_contrib_nbextensions
 # Python Kernel
 - ipykernel=5.1
 - ipywidgets=7.5
